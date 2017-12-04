@@ -1,0 +1,3 @@
+rootProject.name = 'irTask2'
+
+include ':app'
